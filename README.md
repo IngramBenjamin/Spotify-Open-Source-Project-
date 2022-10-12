@@ -10,6 +10,9 @@ Spotify’s ‘Weekly Top Songs’ charts for each country for the weeks 2/4/21 
 across geographical markets, and which song attributes are most prevalent in the most 
 popular songs, or highest ranked songs during the period.
 
+Track Audio Features Data Dictionary
+https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features
+
 # Data Sources
 Spotify Weekly Top 200 Songs Streaming Data
 https://www.kaggle.com/datasets/yelexa/spotify200
